@@ -6,7 +6,7 @@
     android:orientation="vertical"
     android:layout_margin="10dp"
     android:layout_height="match_parent"
-    tools:context="loginrx.example.elanic.loginrxjava.LoginActivity">
+    tools:context="loginrx.example.elanic.loginrxjava.view.LoginActivity">
 
    <EditText
        android:layout_width="match_parent"
@@ -25,7 +25,15 @@
         android:layout_height="wrap_content"
         android:layout_gravity="center"
         android:text="login"
+        android:id="@+id/login_button"
         android:background="@color/colorAccent"
         />
+    <ProgressBar
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:id="@+id/progressBar"
+        android:layout_margin="10dp"
+        android:visibility="gone"
+        android:layout_gravity="center"/>
 
 </LinearLayout>

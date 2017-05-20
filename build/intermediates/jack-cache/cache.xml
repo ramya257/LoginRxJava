@@ -1,0 +1,167 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/ramya/.android/build-cache/b87b3e548dacea26c989ad89656c528f4fd74c93/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="4a26a1154d053ab11aaf4c3967c42a4d66390991">
+        <dex dex="/home/ramya/AndroidStudioProjects/LoginRxJava/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-0a4cb4bc62ce2fab1dcb950754abffc671d509b2.jar" />
+    </item>
+    <item
+        jar="/home/ramya/.android/build-cache/25671b7557223ad50f79c5a61a48d9807a21b9b0/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="d4c4b83de2f6412072d2a29b1b7a5b03edaad5ff">
+        <dex dex="/home/ramya/AndroidStudioProjects/LoginRxJava/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-c9f87102f8d8049066c67d655513f98c3d57e44e.jar" />
+    </item>
+    <item
+        jar="/home/ramya/Android/Sdk/extras/m2repository/com/android/support/constraint/constraint-layout-solver/1.0.2/constraint-layout-solver-1.0.2.jar"
+        revision="25.0.3"
+        sha1="b9cd8fc6bd15cb915735d34535db30ece0c44603">
+        <dex dex="/home/ramya/AndroidStudioProjects/LoginRxJava/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/constraint-layout-solver-1.0.2-4d34a127ba2a1806103095f27ed981f53ad761c0.jar" />
+    </item>
+    <item
+        jar="/home/ramya/.android/build-cache/c8ea5050208421ba154db24d1a690e04adb1c786/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="6ef31f1555bb4cc513ec8d52711365a8b89f3600">
+        <dex dex="/home/ramya/AndroidStudioProjects/LoginRxJava/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-b7664efcbcaceb7055d5cfec1e281b6cf07f7dd2.jar" />
+    </item>
+    <item
+        jar="/home/ramya/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger-compiler/2.0.1/17af13dff7ee290dff99fd97385f40f20b20d7d7/dagger-compiler-2.0.1.jar"
+        revision="25.0.3"
+        sha1="17af13dff7ee290dff99fd97385f40f20b20d7d7">
+        <dex dex="/home/ramya/AndroidStudioProjects/LoginRxJava/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/dagger-compiler-2.0.1-c8d647f7f7c6bdcb4f5315b1d5375d7684bbdad4.jar" />
+    </item>
+    <item
+        jar="/home/ramya/.android/build-cache/83fef397ad2129506d69e45db0bd038956e6202d/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="d7c42c80f6509b9ea4db28ca7859ffae08ec5741">
+        <dex dex="/home/ramya/AndroidStudioProjects/LoginRxJava/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-fa00d9ffc4c999c3710d6fdb8f59fe5883699ff9.jar" />
+    </item>
+    <item
+        jar="/home/ramya/.gradle/caches/modules-2/files-2.1/io.reactivex.rxjava2/rxjava/2.0.5/4f1ac7ec0215e8f87ac80269baadc82878b87ed8/rxjava-2.0.5.jar"
+        revision="25.0.3"
+        sha1="4f1ac7ec0215e8f87ac80269baadc82878b87ed8">
+        <dex dex="/home/ramya/AndroidStudioProjects/LoginRxJava/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/rxjava-2.0.5-e7e0cb68def1d62f931bd939cbcd84fe2ddb9623.jar" />
+    </item>
+    <item
+        jar="/home/ramya/.android/build-cache/c5e5a162c96c928059a5068c2267d7430a76ad42/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="150252b33b00274cc868578ade018fda0d43a3eb">
+        <dex dex="/home/ramya/AndroidStudioProjects/LoginRxJava/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-ee138e6d72a88b5cc2caec01e988cae08194a232.jar" />
+    </item>
+    <item
+        jar="/home/ramya/.android/build-cache/d2a580370dcbc705e092259f8849d1bc5dc7a9ec/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="cea3c0edbda1279bc261187fb3b6f874bfc841f4">
+        <dex dex="/home/ramya/AndroidStudioProjects/LoginRxJava/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-98c1e3551ff474a07562bedac420779e55aebb5b.jar" />
+    </item>
+    <item
+        jar="/home/ramya/Documents/android-studio/gradle/m2repository/com/google/guava/guava/18.0/guava-18.0.jar"
+        revision="25.0.3"
+        sha1="cce0823396aa693798f8882e64213b1772032b09">
+        <dex dex="/home/ramya/AndroidStudioProjects/LoginRxJava/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/guava-18.0-57d88bc2379872f832f90ad3bd4e9be29bb3a5a6.jar" />
+    </item>
+    <item
+        jar="/home/ramya/.gradle/caches/modules-2/files-2.1/javax.inject/javax.inject/1/6975da39a7040257bd51d21a231b76c915872d38/javax.inject-1.jar"
+        revision="25.0.3"
+        sha1="6975da39a7040257bd51d21a231b76c915872d38">
+        <dex dex="/home/ramya/AndroidStudioProjects/LoginRxJava/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/javax.inject-1-08c967f7282ccfc80354fd1ee1136dcf0c04983e.jar" />
+    </item>
+    <item
+        jar="/home/ramya/.android/build-cache/090cfec4e815af010b40ef27bf718afb94cf0278/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="45f697922e6f072daa12f8a2995dc77ab03c11da">
+        <dex dex="/home/ramya/AndroidStudioProjects/LoginRxJava/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-9903023ec193e37592f702d020906857d119b17e.jar" />
+    </item>
+    <item
+        jar="/home/ramya/.gradle/caches/modules-2/files-2.1/javax.annotation/jsr250-api/1.0/5025422767732a1ab45d93abfea846513d742dcf/jsr250-api-1.0.jar"
+        revision="25.0.3"
+        sha1="5025422767732a1ab45d93abfea846513d742dcf">
+        <dex dex="/home/ramya/AndroidStudioProjects/LoginRxJava/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/jsr250-api-1.0-d690a2ac7dbf81220cac40199774d3ce1a8c7bee.jar" />
+    </item>
+    <item
+        jar="/home/ramya/.android/build-cache/1f6676dbd9ebc37575829dcad65e5fe3a99cf379/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="da27a32db6af8954ee8061537c7d476fcb1df46f">
+        <dex dex="/home/ramya/AndroidStudioProjects/LoginRxJava/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-dd76e9ebb5df49bdf2d7afc8a358e575c89179df.jar" />
+    </item>
+    <item
+        jar="/home/ramya/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/25.3.1/support-annotations-25.3.1.jar"
+        revision="25.0.3"
+        sha1="bf8841d29fa39e077730e7a91222c2ce269fa7c9">
+        <dex dex="/home/ramya/AndroidStudioProjects/LoginRxJava/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/support-annotations-25.3.1-795a223c38759b9ed2bfd122191e4c538e2d097b.jar" />
+    </item>
+    <item
+        jar="/home/ramya/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger/2.0.1/1261dfca5bae89a866a2855552da26feab7f8fad/dagger-2.0.1.jar"
+        revision="25.0.3"
+        sha1="1261dfca5bae89a866a2855552da26feab7f8fad">
+        <dex dex="/home/ramya/AndroidStudioProjects/LoginRxJava/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/dagger-2.0.1-d496eed9ac04fe1d434d80465398774da312ef1d.jar" />
+    </item>
+    <item
+        jar="/home/ramya/.android/build-cache/e88bd042ec5fbcd8664c438bbe9c9c92dbdf6bf5/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="052f5f840f21174a3ecf6544130194e2652cbb73">
+        <dex dex="/home/ramya/AndroidStudioProjects/LoginRxJava/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-481efe6fecbacebac150cce5c7d2d2b4d1ff3c7a.jar" />
+    </item>
+    <item
+        jar="/home/ramya/.android/build-cache/cb1e13433c967d09673e42bbdd62339b2f196a08/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="efb8cb62d47d157c29d1521daac7eefd4cb881ee">
+        <dex dex="/home/ramya/AndroidStudioProjects/LoginRxJava/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-e8c854ae1f7c3c79c4997059cfacbb5533a88451.jar" />
+    </item>
+    <item
+        jar="/home/ramya/.android/build-cache/659f5f2895fadbfedd11eb068c219d0ebfa9cdca/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="44ee06abb66da30f5855e6bf54574e64cdcd982a">
+        <dex dex="/home/ramya/AndroidStudioProjects/LoginRxJava/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-8935166e9dc0fb6a3062b078253eb1080469111a.jar" />
+    </item>
+    <item
+        jar="/home/ramya/.android/build-cache/f8a352b93a4b73d0ac10022127a579d1096fe6d2/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="ffc09f4e5bdebe068e5101f587dadc42b60fbfe4">
+        <dex dex="/home/ramya/AndroidStudioProjects/LoginRxJava/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-b6c38ce887db9c77857e022232155b994f5d878d.jar" />
+    </item>
+    <item
+        jar="/home/ramya/Android/Sdk/platforms/android-25/optional/org.apache.http.legacy.jar"
+        revision="25.0.3"
+        sha1="5f0541a4298daa0590b22cfbde43f85e2a675545">
+        <dex dex="/home/ramya/AndroidStudioProjects/LoginRxJava/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/org.apache.http.legacy-42282f4af7e44b61f211368350ed495ae41690e5.jar" />
+    </item>
+    <item
+        jar="/home/ramya/.android/build-cache/14cf104835af8fca610e93b437fdef51cb0347ce/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="4119ea97a7191ff9b8f33b534ea220448f62f491">
+        <dex dex="/home/ramya/AndroidStudioProjects/LoginRxJava/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-51f9ddeb8f6ef2cb8fe5c2c962655a88f256b78f.jar" />
+    </item>
+    <item
+        jar="/home/ramya/.gradle/caches/modules-2/files-2.1/io.reactivex/rxjava/1.1.0/748f0546d5c3c27f1aef07270ffea0c45f0c42a4/rxjava-1.1.0.jar"
+        revision="25.0.3"
+        sha1="748f0546d5c3c27f1aef07270ffea0c45f0c42a4">
+        <dex dex="/home/ramya/AndroidStudioProjects/LoginRxJava/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/rxjava-1.1.0-04988236bb4d10a756e283e7ab43ea16f4af01b4.jar" />
+    </item>
+    <item
+        jar="/home/ramya/.android/build-cache/9aba03660e8343b1caeb42856ea2cfe83cb00d04/output/jars/classes.jar"
+        revision="25.0.3"
+        sha1="47635644d0d5c103c1dd8360549eb9ba3225c7d3">
+        <dex dex="/home/ramya/AndroidStudioProjects/LoginRxJava/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/classes-50d4a563ff2ee53d06c596e86b190aaf15acb269.jar" />
+    </item>
+    <item
+        jar="/home/ramya/.gradle/caches/modules-2/files-2.1/com.google.dagger/dagger-producers/2.0-beta/80276338d1c2542ebebac542b535d1ecd48a3fd7/dagger-producers-2.0-beta.jar"
+        revision="25.0.3"
+        sha1="80276338d1c2542ebebac542b535d1ecd48a3fd7">
+        <dex dex="/home/ramya/AndroidStudioProjects/LoginRxJava/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/dagger-producers-2.0-beta-c6482ab63fc2cbc1bc05cde71ab31701602a844e.jar" />
+    </item>
+    <item
+        jar="/home/ramya/.gradle/caches/modules-2/files-2.1/org.reactivestreams/reactive-streams/1.0.0/14b8c877d98005ba3941c9257cfe09f6ed0e0d74/reactive-streams-1.0.0.jar"
+        revision="25.0.3"
+        sha1="14b8c877d98005ba3941c9257cfe09f6ed0e0d74">
+        <dex dex="/home/ramya/AndroidStudioProjects/LoginRxJava/app/build/intermediates/transforms/preJackPackagedLibraries/debug/jars/8000/1f/reactive-streams-1.0.0-fc358bb4f1300df2d7f470068bba26894ddda799.jar" />
+    </item>
+    <item
+        jar="/home/ramya/Android/Sdk/platforms/android-25/android.jar"
+        revision="25.0.3"
+        sha1="712a0312fe844a21a1b3812fa960c363a1578984">
+        <dex dex="/home/ramya/AndroidStudioProjects/LoginRxJava/app/build/intermediates/transforms/preJackRuntimeLibraries/debug/jars/8000/40/android-f0f064e35b28b7eab6866254a58fb075bbdbb61a.jar" />
+    </item>
+
+</items>
